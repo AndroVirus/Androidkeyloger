@@ -1,6 +1,5 @@
-# KeyDroid v1.0
+# AndroidKeyloger v1.0
 ## Author: https://github.com/thelinuxchoice/keydroid
-## IG: https://www.instagram.com/thelinuxchoice
 ### Don't copy this code without give me the credits, nerd! 
 
 Android Keylogger + Reverse Shell. This project is an adaptation of project from https://github.com/AbhishekNuevo/AndroidKeylogger to work with Android 6.0 and higher, since API Level 23+ requires permission at runtime.
